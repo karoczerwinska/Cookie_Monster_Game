@@ -6,12 +6,12 @@ Cookie Monster Game is a game written in object oriented JavaScript. The player 
 
 [Cookie Monster Game - Live DEMO](https://karoczerwinska.github.io/Cookie_Monster_Game/)
 
-## Technologies used in this project:
+## Technologies used in this project
 
 - HTML
 - CSS
 - JavaScript
 
-## Preview:
+## Preview
 
 ![alt txt](images/preview.png)
