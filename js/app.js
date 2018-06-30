@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             this.gameOver();
 
-            if (this.ongoing === false) {
+            if (!this.ongoing) {
                 return;
             }
             this.showFurry();
